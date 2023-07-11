@@ -26,7 +26,15 @@ img{
 video{
     padding-left: 40px;
 }
-div.iframe {
-    overflow: hidden;
+iframe {
+    width: calc(90%);
+    height: calc(90%);
+    border: none;
+    position: fixed;
+    top: 5%;
+    left: 5%;
+    border: none;
+    background-color: white;
+    right: 20px;
   }
 
