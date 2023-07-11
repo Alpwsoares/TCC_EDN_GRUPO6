@@ -1,0 +1,32 @@
+body{
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: #742E38;
+    margin: 0;
+    background-color:#8BD1C7;
+}
+h1{
+    font-size: 63px;
+    color:#742E38;
+    padding: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #742E38;
+    font-weight: 600;
+}
+img{
+    mix-blend-mode: multiply;
+}
+video{
+    padding-left: 40px;
+}
+div.iframe {
+    overflow: hidden;
+  }
+
